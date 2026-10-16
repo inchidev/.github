@@ -9,13 +9,14 @@ We make software for work, play, and the people in between. All our projects sta
 | Project | What it’s for |
 | :--- | :--- |
 | **[AfterPrompt](https://afterprompt.games)** | Games for you and your agents. Play a puzzle yourself, or give your agent the next move. |
-| **[Discoflare](https://discoflare.com)** | One workspace for humans and agents. Chat, tasks, shared email, and data in your own Cloudflare account. |
-| **[OpenRivers](https://openrivers.inchi.dev)** | Find where your paths cross. Share where you’ll be, make plans, and find a time to get together. |
+| **[L4](https://llll.gg)** | Your places, together. Chat, tasks, mail, apps and shared data across independent installations. Free MIT software on Cloudflare or your VPS. |
+| **[OpenRivers](https://openrivers.app)** | Find where your paths cross. Share where you’ll be, make plans, and find a time to get together. |
 | **[Webhole](https://webhole.inchi.dev)** | Eat the internet. Turn a webpage into a playground, grow your hole, and hunt other players. |
+| **[Gitrew](https://gitrew.com)** | A place for your Git crew. Team chat beside your GitHub repositories, on infrastructure you control. |
 
 ### We use what we make.
 
-Some of our projects help us work together. Some get us away from work for a minute. We’re dogfooding [Discoflare](https://discoflare.com) every day: our own workspace and email run on it.
+Some of our projects help us work together. Some get us away from work for a minute. [L4](https://llll.gg) grows from the chat, tasks, mail and shared data we need for our own projects.
 
 You can also bring a little room for play to your coding agent with the **[AfterPrompt plugin for Claude Code and Codex](https://github.com/inchidev/afterprompt)**.
 
